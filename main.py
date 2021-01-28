@@ -65,15 +65,4 @@ while True: #Main program loop.
         nextCells[x][y] = ''
 time.sleep(1) #Add a 1 second pause to reduce flickering
   
-  
-
-
-
-
-
-
-
-
-
-
 
