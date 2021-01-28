@@ -1,6 +1,7 @@
 import random, time, copy
 width = 60
 height = 20
+
 # Create a list of list for the cells.
 nextCells = []
 for x in range(width):
